@@ -7,3 +7,5 @@ MS Excel for data cleaning Download here (http://www.microsoft.com)
 ```SQL
 SELECT A,B,C
 WHERE A> 15 
+
+# HOW TO ADD FILES
